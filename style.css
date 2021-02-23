@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url("jumbotronbg.jpg");
+    background-size: cover;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 5%;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  body{
+      background-color: #292b2c;
+      color: whitesmoke;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      letter-spacing: 2px;
+  }
+
+  .nav-link{
+      margin: 5px 20px 5px 20px;
+  }
